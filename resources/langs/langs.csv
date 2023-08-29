@@ -1,0 +1,26 @@
+str,vi_VN,en_US
+email,Email,Email
+password,Password,Password
+fullname,Full Name,Full Name
+confirmPassword,Confirm Password,Confirm Password
+signIn,SIGN IN,SIGN IN
+signUp,SIGN UP,SIGN UP
+dontHaveAcc,Don't have an account?,Don't have an account?
+haveAcc,Have an account?,Have an account?
+forgotPwd,Forgot Password?,Forgot Password?
+changePwd,CHANGE PASSWORD,CHANGE PASSWORD
+todoList,TO DO LIST,TO DO LIST
+listOfTodo,List of todo,List of todo
+title,Title,Title
+description,Description,Description
+addTodo,ADD TODO,ADD TODO
+deadline,Deadline (Optional),Deadline (Optional)
+addImage,Add Image (Optional),Add Image (Optional)
+deleteTodo,Delete TODO,Delete TODO
+cancel,Cancel,Cancel
+logOut,LOG OUT,LOG OUT
+createdAt,Created at,Created at
+emailNotValid,Email not valid,Email not valid
+passwordNotValid,Password not valid,Password not valid
+cantBlank,This field cannot be blank,This field cannot be blank
+pwdDontMatch,Password don't match,Password don't match
